@@ -25,6 +25,7 @@ namespace EntityFramework_first_lesson
                 context.SaveChanges();
                 Console.WriteLine($"User add id = {aslan.Id} ");
 
+
             }
 
 
